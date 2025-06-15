@@ -8,6 +8,7 @@
   "main_file": "ye.lua",
   "priority": 0,
   "badge_colour": "F4A6C7",
+  "badge_text_colour": "d027b8",
   "version": "1.0",
   "dependencies": ["Steamodded (>=1.*)"]
 }
