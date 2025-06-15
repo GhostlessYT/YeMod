@@ -1,0 +1,13 @@
+{
+  "id": "Yemod",
+  "name": "Yemod",
+  "display_name": "YeMod",
+  "author": ["GhostlessYT"],
+  "description": "adds various jokers related to american rapper and musical artist Ye, formerly known as Kanye West.",
+  "prefix": "ye",
+  "main_file": "ye.lua",
+  "priority": 0,
+  "badge_colour": "F4A6C7",
+  "version": "1.0",
+  "dependencies": ["Steamodded (>=1.*)"]
+}
